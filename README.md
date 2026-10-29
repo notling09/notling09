@@ -26,7 +26,7 @@ const nilton = {
 **Play for real. Rise virtually.** A football game for Android where you check in at real pitches near you, collect players and lead your own club from Division 4 up to Division 1.
 
 <p align="center">
-  <img src="assets/geo-kick-gallery.png" alt="Geo-Kick screenshots" width="100%">
+  <img src="geo-kick-gallery.png" alt="Geo-Kick screenshots" width="100%">
 </p>
 
 - 📍 **GPS check-in** at real pitches from OpenStreetMap, only within a 100 m radius
@@ -66,7 +66,7 @@ My sister Dalila and three of her classmates wrote a full business plan for a me
 <table>
 <tr>
 <td width="32%" valign="top">
-  <img src="assets/momento.jpg" alt="Momento screenshot" width="100%">
+  <img src="momento.jpg" alt="Momento screenshot" width="100%">
 </td>
 <td valign="top">
 
