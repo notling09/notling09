@@ -26,7 +26,7 @@ const nilton = {
 **Play for real. Rise virtually.** A football game for Android where you check in at real pitches near you, collect players and lead your own club from Division 4 up to Division 1.
 
 <p align="center">
-  <img src="assets/geo-kick-gallery.png" alt="Geo-Kick screenshots" width="100%">
+  <img src="geo-kick-gallery.png" alt="Geo-Kick screenshots" width="100%">
 </p>
 
 - 📍 **GPS check-in** at real pitches from OpenStreetMap, only within a 100 m radius
