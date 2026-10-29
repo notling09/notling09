@@ -12,10 +12,10 @@ const nilton = {
   training: "Informatiker EFZ Applikationsentwicklung + Berufsmaturität",
   school: ["IMS bwd Bern", "gibb"],
   favouriteStack: ["TypeScript", "React", "React Native"],
-  alsoWorkedWith: ["C#", ".NET MAUI", "Flutter", "Node.js"],
+  strongestAt: ["HTML", "CSS", "JavaScript", "SQL"],
+  alsoWorkedWith: ["Flutter", "Dart", "Node.js", "C#", ".NET MAUI"],
   currentlyBuilding: "Pulsolux",
-  nextStep: "internship year from August 2027",
-  speaks: ["pt", "de", "en", "fr", "es"],
+  nextStep: "internship year at SBV from August 2027",
 };
 ```
 
@@ -26,7 +26,7 @@ const nilton = {
 **Play for real. Rise virtually.** A football game for Android where you check in at real pitches near you, collect players and lead your own club from Division 4 up to Division 1.
 
 <p align="center">
-  <img src="geo-kick-gallery.png" alt="Geo-Kick screenshots" width="100%">
+  <img src="assets/geo-kick-gallery.png" alt="Geo-Kick screenshots" width="100%">
 </p>
 
 - 📍 **GPS check-in** at real pitches from OpenStreetMap, only within a 100 m radius
@@ -59,6 +59,34 @@ React Native · Expo · TypeScript · Zustand · SQLite · MapLibre · Supabase
 
 ---
 
+## 💜 Built for my sister: Momento
+
+My sister Dalila and three of her classmates wrote a full business plan for a memories app. It stayed on paper, so I built it. **Momento** saves not just a photo but the whole moment: the place, the people, the feeling, the scent and the sound.
+
+<table>
+<tr>
+<td width="32%" valign="top">
+  <img src="assets/momento.jpg" alt="Momento screenshot" width="100%">
+</td>
+<td valign="top">
+
+- 📱 **One codebase** for Android, iOS and the web, built with Flutter and Dart
+- 🎙️ **Real sounds**: record the moment directly with the microphone
+- 🔒 **No server**: all data stays on the device
+- 🔎 **Smart search** that understands synonyms and seasons and forgives typos
+- 🧪 **~12,600 lines**, 54 files and 59 tests, in German and English, light and dark mode
+- 🧠 **Three things I changed on purpose**: no ID photo at sign-up (Swiss data protection), scents from a palette instead of "measured", and no videos so the storage doesn't explode
+
+Their idea, my code. Their names are in the app.
+
+[**Website**](https://momento.niltonbc.ch): try it in your browser or download the app
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🔬 Right now: Pulsolux
 
 A Flutter app that **measures your pulse with the smartphone camera**. Put your finger on the camera and flash, and the app reads the tiny changes in brightness with every heartbeat (photoplethysmography).
@@ -81,8 +109,9 @@ Built as our IDPA at the IMS with Cat Tuong Nguyen and Luis Rosado.
 | **2025** | First apps in C#: a Snake game and a recipe app with .NET MAUI |
 | **2026** | Full-stack web apps with React, Express and SQLite at school |
 | **Summer 2026** | Built Geo-Kick, 100+ commits in about a month |
+| **Autumn 2026** | Momento, my sister's business plan turned into a real app |
 | **Autumn 2026** | Pulsolux, pulse measurement with the phone camera |
-| **August 2027** | Internship year 🚀 |
+| **August 2027** | Internship year at **SBV** 🚀 |
 
 <details>
 <summary><b>📚 School projects</b></summary>
@@ -102,25 +131,39 @@ Built as our IDPA at the IMS with Cat Tuong Nguyen and Luis Rosado.
 
 ## 🛠️ Tech
 
-![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7C3AED?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-7C3AED?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-7C3AED?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-7C3AED?style=flat-square&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-7C3AED?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-7C3AED?style=flat-square&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-7C3AED?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-7C3AED?style=flat-square&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-7C3AED?style=flat-square&logo=supabase&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-7C3AED?style=flat-square&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7C3AED?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-7C3AED?style=flat-square&logo=vercel&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=claude&logoColor=white)
 
 ## ⚽ Fun facts
 
 - I built a football game because I love football, so testing it means going outside to play
+- Big Benfica fan 🦅 and yes, I built a website for them too
+- My portfolio has Portuguese azulejo tiles in the design, because that's where my roots are
 - I speak five languages: Portuguese, German, English, French and Spanish
+- I once tried to build my own little operating system (DoorSystem96). It had way too many bugs in the end, and it taught me more than any project that worked
 - My favourite part of coding is the moment a bug finally makes sense
 
 ## 📫 Contact
 
 [![Website](https://img.shields.io/badge/niltonbc.ch-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://niltonbc.ch)
+[![Email](https://img.shields.io/badge/niltonbcarvalho09@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niltonbcarvalho09@gmail.com)
