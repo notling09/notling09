@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="banner.svg" alt="Nilton Barroso Carvalho" width="100%">
 </p>
 
@@ -149,7 +149,7 @@ Built as our IDPA at the IMS with Cat Tuong Nguyen and Luis Rosado.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7C3AED?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlsaW5lIHBvaW50cz0iOCA2IDIgMTIgOCAxOCIvPjxwb2x5bGluZSBwb2ludHM9IjE2IDYgMjIgMTIgMTYgMTgiLz48bGluZSB4MT0iMTQiIHkxPSI0IiB4Mj0iMTAiIHkyPSIyMCIvPjwvc3ZnPg==)
 ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-7C3AED?style=flat-square&logo=vercel&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=claude&logoColor=white)
